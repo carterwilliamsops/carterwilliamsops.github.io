@@ -38,7 +38,7 @@ Since this project uses a CDN for Tailwind, you can run it locally without Node.
 
 1.  Clone the repo:
     ```bash
-    git clone [https://github.com/yourusername/portfolio-v1.git](https://github.com/carterwilliamsops/portfolio-v1.git)
+    git clone [https://github.com/carterwilliamsops/portfolio-v1.git](https://github.com/youruseername/portfolio-v1.git)
     ```
 2.  Open `index.html` in any modern web browser.
 
